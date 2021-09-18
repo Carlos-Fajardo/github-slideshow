@@ -2,5 +2,5 @@
 layout: slide
 title: "Bienvenidos a la segunda página!"
 ---
-Tu texto
+Lo que haces hoy puede mejorar todos tus mañanas
 Utiliza la flecha hacia la izquierda para volver!
